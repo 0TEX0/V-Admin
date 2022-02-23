@@ -22,7 +22,7 @@ Si tu veux plus d'informations ou autres chose hésite pas à passer sur mon **d
 
 ### UTILISATION
  - [x] F3 activer le Noclip
- - [x] F10 ouvre le mune Admin
+ - [x] F10 ouvre le menu Admin
  - [x] F11 ouvre le menu Report
  
 ### INSTALLATION
