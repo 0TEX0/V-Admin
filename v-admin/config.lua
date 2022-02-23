@@ -2,15 +2,15 @@ Config = {}
 
 Config = {
     webhook = { -- LOGS DISCORD
-        Staffmodeon = "https://discord.com/api/webhooks/926851339462524968/j3Kb5yCsdT1i9_L9divi5Vt8-X322HjWiC-oA45FA3Lc5gcBgGgThyjCoqVTi4OXqBjy",      -- MODE STAFF ON
-        Staffmodeoff = "https://discord.com/api/webhooks/926851339462524968/j3Kb5yCsdT1i9_L9divi5Vt8-X322HjWiC-oA45FA3Lc5gcBgGgThyjCoqVTi4OXqBjy",     -- MODE STAFF OFF
-        teleport = "https://discord.com/api/webhooks/926851339462524968/j3Kb5yCsdT1i9_L9divi5Vt8-X322HjWiC-oA45FA3Lc5gcBgGgThyjCoqVTi4OXqBjy",
-        teleportTo = "https://discord.com/api/webhooks/926851339462524968/j3Kb5yCsdT1i9_L9divi5Vt8-X322HjWiC-oA45FA3Lc5gcBgGgThyjCoqVTi4OXqBjy",
-        revive = "https://discord.com/api/webhooks/926851339462524968/j3Kb5yCsdT1i9_L9divi5Vt8-X322HjWiC-oA45FA3Lc5gcBgGgThyjCoqVTi4OXqBjy",
-        kick = "https://discord.com/api/webhooks/926851339462524968/j3Kb5yCsdT1i9_L9divi5Vt8-X322HjWiC-oA45FA3Lc5gcBgGgThyjCoqVTi4OXqBjy",
-        SendLogs = "https://discord.com/api/webhooks/926851339462524968/j3Kb5yCsdT1i9_L9divi5Vt8-X322HjWiC-oA45FA3Lc5gcBgGgThyjCoqVTi4OXqBjy",        -- GENERAL LOGS
-        report = "https://discord.com/api/webhooks/926851339462524968/j3Kb5yCsdT1i9_L9divi5Vt8-X322HjWiC-oA45FA3Lc5gcBgGgThyjCoqVTi4OXqBjy",
-        givemoney = "https://discord.com/api/webhooks/926851339462524968/j3Kb5yCsdT1i9_L9divi5Vt8-X322HjWiC-oA45FA3Lc5gcBgGgThyjCoqVTi4OXqBjy"
+        Staffmodeon = "",      -- MODE STAFF ON
+        Staffmodeoff = "",     -- MODE STAFF OFF
+        teleport = "",
+        teleportTo = "",
+        revive = "",
+        kick = "",
+        SendLogs = "",        -- GENERAL LOGS
+        report = "",
+        givemoney = ""
     },
 
     Touche = { -- TOUCHE MENU
