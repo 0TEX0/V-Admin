@@ -1,4 +1,4 @@
-TriggerEvent('OTEXO&KraKss:esx:getSharedObject', function(obj)
+TriggerEvent('esx:getSharedObject', function(obj)
     ESX = obj
 end)
 
