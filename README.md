@@ -27,7 +27,7 @@ Si tu veux plus d'informations ou autres chose hésite pas à passer sur mon **d
  
 ### INSTALLATION
 
-**1 - Start tout les fichiers** 
+**1 - Start le fichier** 
 
 ``` 
 ensure v-admin
